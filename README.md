@@ -1,6 +1,6 @@
 sha256:8f699db267df27bacd18fe31fc608feb0493c371c37ce980ff3a2422a9cbd16e
 
-docker run --privileged -it -p 8080:8080 8f699db267df27bacd18fe31fc608feb0493c371c37ce980ff3a2422a9cbd16e sh
+docker run --privileged -it -p 8080:8080 <image id> sh
 
 (cmd of docker machine)input "Y" if needed:
 
